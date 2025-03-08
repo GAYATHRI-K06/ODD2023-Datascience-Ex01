@@ -19,3 +19,4 @@ Remove the null values from the data
 Save the Clean data to the file
 
 # CODE and OUTPUT
+[intro to ds 1.pdf](https://github.com/user-attachments/files/19143731/intro.to.ds.1.pdf)
